@@ -3,7 +3,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Random, A Platformer</title>
 </head>
 <body>
 
